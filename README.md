@@ -22,3 +22,8 @@ Evaluation: classification metrics and scenario-based testing
 Course: ENCS5344 - Spoken Language Processing
 Semester: January 2025
 University: Birzeit University, Ramallah, Palestine
+
+
+*********NOTE:
+THIS IS THE LINK FOR DATASET USED
+https://www.kaggle.com/datasets/kmaryam/dataset
